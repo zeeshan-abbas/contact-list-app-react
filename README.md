@@ -1,6 +1,6 @@
-#Contact List App Sample React
+# Contact List App Sample React
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).<br>
 React-Bootstrap 3 is being used in this project as it is most used CSS framework.
 
 Below you will find some information on how to perform common tasks.<br>
