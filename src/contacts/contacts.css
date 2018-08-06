@@ -1,0 +1,25 @@
+.sortable-header {
+    cursor: pointer;
+}
+
+.action-header {
+    text-align: center;
+}
+
+.contact-count {
+    text-align: right;
+    margin: 20px 0;
+    color: cornflowerblue;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.item-per-page {
+    margin: 20px 0;
+    text-align: left;
+}
+
+.item-per-page .page-label {
+    padding-top: 8px;
+    padding-right: 0;
+}

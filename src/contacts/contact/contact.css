@@ -1,0 +1,14 @@
+.contact-row td {
+    text-align: left;
+    color: dimgrey;
+}
+
+.contact-row .action-icon {
+    text-align: center;
+}
+
+.contact-row .action-icon img{
+    cursor: pointer;
+    height: 18px;
+    width: 18px
+}
